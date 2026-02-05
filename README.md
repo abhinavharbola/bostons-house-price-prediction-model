@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ---
 
-## Train the Model (Offline Step)
+## Train the Model
 
 Run the training script once to generate the artifacts required for inference:
 
@@ -153,3 +153,4 @@ boston-house-price-predictor/
 
 
 **Author:** [Abhinav Harbola](https://github.com/abhinavharbola)
+
